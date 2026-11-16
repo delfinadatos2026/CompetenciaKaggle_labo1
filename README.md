@@ -15,7 +15,7 @@ Las modificaciones y decisiones que tomé se basaron:
 
 # Modelo seleccionado para la predicción final (Comparativo con z719)
 
-| Etapa / Parámetro | z719 - senior modificado para junior | Comparativo a: Cuarta Corrida |
+| Etapa / Parámetro | z739 - senior modificado para junior | Comparativo a: Cuarta Corrida |
 | :--- | :--- | :--- |
 | **Preprocesamiento_Dataset** | | |
 | **Catastrophe_Analysis** | MICE | MICE |
