@@ -50,7 +50,8 @@ Las modificaciones y decisiones que tomé se basaron:
 > * **Tiempo de corrida:** 
 > * **Mejor Ganancia de Kaggle - Público:** `99.605`
 > * **Corte con mejor Ganancia - Público:** `1700`
-> * **Mejor Ganancia de Kaggle - Privado:** `91.193`
+> * **Ganancia en Kaggle Privado al corte 1700:** `89.441`
+> * **Mejor Ganancia de Kaggle - Privado:** `91.193` (no fue la seleccionada) 
 > * **Corte con mejor Ganancia - Privado:** `1400`
 >
 > **Mejores HP:**
@@ -62,3 +63,4 @@ Las modificaciones y decisiones que tomé se basaron:
 >
 > ### Definición entrega final
 > Para la decisión final consideré el experimento que arrojaba ganancias más estables y el corte que mayor ganancia tuvo en el público. Con el diario del lunes estas decisiones son fuertemente cuestionadas por mí misma y la búsqueda de alguna metodología con mayor criterio y resultado está siendo investigada.
+
