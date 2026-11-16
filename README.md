@@ -13,7 +13,7 @@ Las modificaciones y decisiones que tomé se basaron:
 
 ¿Con qué empiezo? Para responderme esta pregunta saqué conclusiones de cada video y comencé a probar.
 
-# Modelo seleccionado para la predicción final (Comparativo con z719)
+# Modelo seleccionado para la predicción final (Comparativo con z739)
 
 | Etapa / Parámetro | z739 - senior modificado para junior | Comparativo a: Cuarta Corrida |
 | :--- | :--- | :--- |
